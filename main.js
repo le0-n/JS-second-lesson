@@ -1,7 +1,7 @@
 let x = prompt('Enter first number: ')
 let y = prompt('Enter second number: ')
 let z = prompt('Enter third number: ')
-
+// (!~!)
 if (x > y && x > z) {
     console.log(x + ' ' + 'greater than' + ' ' + y + ' ' +'and'+ ' ' + z);
 }else if (y > x && y > z) {
